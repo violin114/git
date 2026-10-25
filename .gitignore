@@ -25,3 +25,6 @@ build/
 *.log
 *.tmp
 *.temp
+
+# WorkBuddy 工具数据
+.workbuddy/
